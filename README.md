@@ -52,6 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gavish47/gavish47/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gavish47/gavish47/output/snake.svg" alt="Snake animation" />
 
 ###
