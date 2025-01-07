@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gavish and I'm a <br> B.Tech CSE student from Mandi, Himachal Pradesh, India</h2>
+<h2 align="left">Hi 👋! I’m Gavish, an aspiring Data Analyst and a B.Tech CSE student from Mandi, Himachal Pradesh, India. I'm passionate about transforming raw data into meaningful insights using tools like Excel, Power BI, Tableau, SQL, and R.</h2>
 
 ###
 
